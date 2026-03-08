@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.automata.GameOfLifeStateTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-10-24T13:00:56" hostname="DESKTOP-LFSJAG3" time="0.014">
+  <properties/>
+  <testcase name="testGetColor()" classname="model.automata.GameOfLifeStateTest" time="0.002"/>
+  <testcase name="testNext()" classname="model.automata.GameOfLifeStateTest" time="0.004"/>
+  <testcase name="testDeadUpdate()" classname="model.automata.GameOfLifeStateTest" time="0.001"/>
+  <testcase name="testAliveUpdate()" classname="model.automata.GameOfLifeStateTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

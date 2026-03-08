@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="matrix.CoordinateTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-10-24T13:00:55" hostname="DESKTOP-LFSJAG3" time="0.043">
+  <properties/>
+  <testcase name="testAbove()" classname="matrix.CoordinateTest" time="0.006"/>
+  <testcase name="testBelow()" classname="matrix.CoordinateTest" time="0.0"/>
+  <testcase name="testRight()" classname="matrix.CoordinateTest" time="0.002"/>
+  <testcase name="testLeft()" classname="matrix.CoordinateTest" time="0.003"/>
+  <testcase name="testDiagonalNeighbours()" classname="matrix.CoordinateTest" time="0.001"/>
+  <testcase name="testCoordinateCreation()" classname="matrix.CoordinateTest" time="0.003"/>
+  <testcase name="testOrthogonalNeighbours()" classname="matrix.CoordinateTest" time="0.003"/>
+  <testcase name="testOrthodiagonalNeighbours()" classname="matrix.CoordinateTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="matrix.ListMatrixTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-10-24T13:00:55" hostname="DESKTOP-LFSJAG3" time="0.036">
+  <properties/>
+  <testcase name="testMatrixWidthAndHeight()" classname="matrix.ListMatrixTest" time="0.001"/>
+  <testcase name="testMatrixCoordinates()" classname="matrix.ListMatrixTest" time="0.003"/>
+  <testcase name="testMatrixCreationWithInitialValue()" classname="matrix.ListMatrixTest" time="0.002"/>
+  <testcase name="testSubMatrix()" classname="matrix.ListMatrixTest" time="0.003"/>
+  <testcase name="testMatrixIterator()" classname="matrix.ListMatrixTest" time="0.003"/>
+  <testcase name="testMatrixCreationWithInitializer()" classname="matrix.ListMatrixTest" time="0.003"/>
+  <testcase name="testMatrixSetAndGet()" classname="matrix.ListMatrixTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.StateTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-10-24T13:00:56" hostname="DESKTOP-LFSJAG3" time="0.017">
+  <properties/>
+  <testcase name="testCountMethodWithNoMatchingElements()" classname="model.StateTest" time="0.001"/>
+  <testcase name="testCountMethodWithInteger()" classname="model.StateTest" time="0.005"/>
+  <testcase name="testCountMethodWithEmptyList()" classname="model.StateTest" time="0.003"/>
+  <testcase name="testCountMethodWithString()" classname="model.StateTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
