@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="matrix.CoordinateIteratorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-10-24T13:00:55" hostname="DESKTOP-LFSJAG3" time="0.046">
+  <properties/>
+  <testcase name="testIteratorWithZeroDimensions()" classname="matrix.CoordinateIteratorTest" time="0.002"/>
+  <testcase name="testIteratorWithTwoDimensions()" classname="matrix.CoordinateIteratorTest" time="0.034"/>
+  <testcase name="testIteratorWithOneDimension()" classname="matrix.CoordinateIteratorTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.CellularAutomatonSimulationTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-10-24T13:00:55" hostname="DESKTOP-LFSJAG3" time="0.112">
+  <properties/>
+  <testcase name="testNumberOfColumns()" classname="model.CellularAutomatonSimulationTest" time="0.027"/>
+  <testcase name="testSetGenerationNumberChangeListener()" classname="model.CellularAutomatonSimulationTest" time="0.007"/>
+  <testcase name="testClear()" classname="model.CellularAutomatonSimulationTest" time="0.001"/>
+  <testcase name="testColor()" classname="model.CellularAutomatonSimulationTest" time="0.02"/>
+  <testcase name="testReset()" classname="model.CellularAutomatonSimulationTest" time="0.007"/>
+  <testcase name="testCopy()" classname="model.CellularAutomatonSimulationTest" time="0.004"/>
+  <testcase name="testNext()" classname="model.CellularAutomatonSimulationTest" time="0.003"/>
+  <testcase name="testAt()" classname="model.CellularAutomatonSimulationTest" time="0.003"/>
+  <testcase name="testUpdateToNextGeneration()" classname="model.CellularAutomatonSimulationTest" time="0.009"/>
+  <testcase name="testSetChangeListener()" classname="model.CellularAutomatonSimulationTest" time="0.004"/>
+  <testcase name="testNumberOfRows()" classname="model.CellularAutomatonSimulationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
